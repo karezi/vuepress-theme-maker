@@ -1,7 +1,7 @@
 module.exports = {
-  siteName: '1980\'s Maker',
+  siteName: 'Karezi\'s Blog',
   logo: '/logo.jpg',
-  siteDesc: '一个出生于80年代的程序员 -- 喜爱创[客]、美[食]、动[画]、怀[旧]的新手艺人',
+  siteDesc: '90年代出产古早INTJ型程序员',
   nav: [
     { text: '🏠 Home', link: '/' },
     { text: '📖 Theme', link: '/categories/theme/' },
@@ -15,22 +15,22 @@ module.exports = {
   social: [
     {
       type: 'email',
-      link: 'cmgddd@163.com'
+      link: 'karezi@163.com'
     },
     {
       type: 'github',
-      link: '80maker/vuepress-theme-maker'
+      link: 'karezi'
     },
-    {
-      type: 'qq',
-      link: '//qm.qq.com/cgi-bin/qm/qr?k=fknyQ434nkzVUWUmJ6rpIPctkS9eyQaZ&jump_from=webapi'
-    },
+    // {
+    //   type: 'qq',
+    //   link: '//qm.qq.com/cgi-bin/qm/qr?k=fknyQ434nkzVUWUmJ6rpIPctkS9eyQaZ&jump_from=webapi'
+    // },
     {
       type: 'feed',
       link: '/rss.xml'
     }
   ],
-  copyright: '© 2020 ❤️ <a target="_blank" href="https://17ria.com/">Neil Chen</a>',
+  copyright: '© 2022 ❤️ <a target="_blank" href="https://karezi.newlifepath.top/">Karezi</a>',
   blog: {
     directories: [
       {
@@ -71,11 +71,11 @@ module.exports = {
       }
     ],
     sitemap: {
-      hostname: 'https://80shuo.com',
+      hostname: 'https://karezi.newlifepath.top',
       exclude: ['/404.html']
     },
     feed: {
-      canonical_base: 'http://80shuo.com',
+      canonical_base: 'http://karezi.newlifepath.top',
     },
     palette: {},
     comment: {}

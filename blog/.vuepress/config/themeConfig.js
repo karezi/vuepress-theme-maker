@@ -4,11 +4,11 @@ module.exports = {
   siteDesc: '90年代出产古早INTJ型程序员',
   nav: [
     { text: '🏠 Home', link: '/' },
-    { text: '📖 Theme', link: '/categories/theme/' },
-    { text: '🐉 Maker', link: '/categories/maker/' },
-    { text: '🔥 Animation', link: '/categories/animation/' },
-    { text: '📽 Old Time', link: '/categories/oldtime/' },
-    { text: '🔗 friend-links', link: '/friend-links/' },
+    { text: '📖 Cheatsheet', link: '/categories/cheatsheet/' },
+    { text: '🔥 Tutorial', link: '/categories/tutorial/' },
+    { text: '🐉 Bug', link: '/categories/bug/' },
+    // { text: '📽 Old Time', link: '/categories/oldtime/' },
+    // { text: '🔗 friend-links', link: '/friend-links/' },
   ],
   searchPlaceholder: 'Search',
   searchMaxSuggestions: 10,
@@ -30,7 +30,7 @@ module.exports = {
       link: '/rss.xml'
     }
   ],
-  copyright: '© 2022 ❤️ <a target="_blank" href="https://karezi.newlifepath.top/">Karezi</a>',
+  copyright: '© 2022 ❤️ <a target="_blank" href="https://karezi.cn/">Karezi</a>',
   blog: {
     directories: [
       {
@@ -71,11 +71,11 @@ module.exports = {
       }
     ],
     sitemap: {
-      hostname: 'https://karezi.newlifepath.top',
+      hostname: 'https://karezi.cn',
       exclude: ['/404.html']
     },
     feed: {
-      canonical_base: 'http://karezi.newlifepath.top',
+      canonical_base: 'http://karezi.cn',
     },
     palette: {},
     comment: {}

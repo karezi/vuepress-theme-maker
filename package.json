@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/karezi/vuepress-theme-maker/issues"
   },
-  "homepage": "https://karezi.newlifepath.top/",
+  "homepage": "https://karezi.cn/",
   "dependencies": {
     "@vuepress/plugin-blog": "^1.9.3",
     "@vuepress/plugin-medium-zoom": "^1.8.0",

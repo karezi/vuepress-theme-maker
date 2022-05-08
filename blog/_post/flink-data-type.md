@@ -1,11 +1,16 @@
 ---
 date: 2020-12-23
-category: flink
-cover: https://images.unsplash.com/photo-1560930375-f0f48057f535?fit=crop&w=1280&h=720&q=80
+author: karezi
+category: 
+    - cheatsheet
+tags:
+    - flink
+cover: https://flink.apache.org/img/flink-home-graphic.png
 ---
-# Flink数据类型映射大全
-
 Flink 支持连接多种数据库，如MySQL、PostgresSQL、Derby。Derby通常用于测试。从关系数据库数据类型到Flink SQL数据类型的字段数据类型映射如下表所示，映射表可以帮助在Flink中轻松定义JDBC表。
+
+<!-- more -->
+
 |MySQL type|PostgreSQL type|Flink SQL type|
 |-----|-----|-----|
 |TINYINT||TINYINT|

@@ -1,5 +1,6 @@
 ---
 date: 2020-12-23
+title: Flink数据类型映射大全
 author: karezi
 category: 
     - cheatsheet

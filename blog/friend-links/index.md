@@ -2,11 +2,10 @@
 title: It is always a pleasure to greet a friend from afar ~
 cover: /images/friend.jpg
 links: 
-  - title: Ikeq Cheng
-    roundness: true
-    logo: https://www.gravatar.com/avatar/06818ca4361a28447cffdd2daaed2799?s=160
-    url: https://blog.oniuo.com/
-    desc: The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts.
+  - title: MagicKeywords独立博客
+    url: https://newlifepath.top/moewblog/
+    logo: https://s2.loli.net/2022/05/09/DEAhqcgk9CpYM4a.png
+    desc: 讲述最精彩的故事
   - title: 17ria
     logo: https://www.17ria.com/themes/fruit/assets/images/safari-pinned-tab.svg
     url: https://www.17ria.com/

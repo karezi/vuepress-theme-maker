@@ -10,8 +10,6 @@ tags:
 ## 新建文件
 - 新建 Modules Ctrl+Shift+Alt+T
 
-<!-- more -->
-
 ## 编写代码
 - 生成 Alt+Insert
 - 导入缺失 Alt+Enter

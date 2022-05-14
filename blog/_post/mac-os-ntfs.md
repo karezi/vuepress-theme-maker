@@ -10,8 +10,6 @@ tags:
 ## STEP1：读取待识别硬盘的UUID
 确定硬盘名称：例如Untitled
 
-<!-- more -->
-
 ```
 $ diskutil info /Volumes/Untitled | grep UUID
 Volume UUID:               123F456C-E7E8-9FF0-A123-E45CF6789FD0

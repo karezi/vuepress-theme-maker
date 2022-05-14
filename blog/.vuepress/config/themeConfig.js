@@ -5,6 +5,7 @@ module.exports = {
   nav: [
     { text: '🏠 Home', link: '/' },
     { text: '👨‍💻 Project', link: '/categories/project/' },
+    { text: '🚀 Java', link: '/categories/Java/' },
     { text: '🤖 AI', link: '/categories/ai/' },
     { text: '📖 Tutorial', link: '/categories/tutorial/' },
     { text: '📑 Cheatsheet', link: '/categories/cheatsheet/' },

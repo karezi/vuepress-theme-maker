@@ -16,8 +16,6 @@ $ sudo apt-get update
 $ sudo apt-get install python-certbot-nginx（不一定奏效）
 ```
 
-<!-- more -->
-
 - 安装软件
 ```
 $ sudo apt-get install letsencrypt
